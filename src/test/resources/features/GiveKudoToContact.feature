@@ -30,5 +30,5 @@ Feature: Like a user requests find a specific Contact
 
     Examples:
 
-      |  username  | password | contact                   | comment                                | action                         | tag           |
-      | jexebio    | test     | Juan Bryan Estrada Acosta |this is a comment of automation test    | Help with process improvements | android       |
+      |  username  | password  | contact                   | comment                                       | action                         | tag           |
+      | gvillafane | Testing!1 | Juan Bryan Estrada Acosta |this is a testing comment for appium course    | Help with process improvements | android       |
